@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AIKythera_Showcase",
+			"Path": "C:\\Users\\FMGameDev\\GitHub\\CGT\\DES310\\SeagullStudios_AIKythera_Showcase\\AIKythera_Showcase\\Source\\AIKythera_Showcase.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AIKythera_ShowcaseEditor",
+			"Path": "C:\\Users\\FMGameDev\\GitHub\\CGT\\DES310\\SeagullStudios_AIKythera_Showcase\\AIKythera_Showcase\\Source\\AIKythera_ShowcaseEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

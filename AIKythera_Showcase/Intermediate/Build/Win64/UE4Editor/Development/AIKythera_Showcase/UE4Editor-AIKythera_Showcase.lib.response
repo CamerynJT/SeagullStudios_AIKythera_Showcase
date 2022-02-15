@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AIKythera_Showcase.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\FMGameDev\GitHub\CGT\DES310\SeagullStudios_AIKythera_Showcase\AIKythera_Showcase\Intermediate\Build\Win64\AIKythera_ShowcaseEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\FMGameDev\GitHub\CGT\DES310\SeagullStudios_AIKythera_Showcase\AIKythera_Showcase\Intermediate\Build\Win64\UE4Editor\Development\AIKythera_Showcase\AIKythera_Showcase.cpp.obj"
+"C:\Users\FMGameDev\GitHub\CGT\DES310\SeagullStudios_AIKythera_Showcase\AIKythera_Showcase\Intermediate\Build\Win64\UE4Editor\Development\AIKythera_Showcase\AIKythera_ShowcaseCharacter.cpp.obj"
+"C:\Users\FMGameDev\GitHub\CGT\DES310\SeagullStudios_AIKythera_Showcase\AIKythera_Showcase\Intermediate\Build\Win64\UE4Editor\Development\AIKythera_Showcase\AIKythera_ShowcaseGameMode.cpp.obj"
+"C:\Users\FMGameDev\GitHub\CGT\DES310\SeagullStudios_AIKythera_Showcase\AIKythera_Showcase\Intermediate\Build\Win64\UE4Editor\Development\AIKythera_Showcase\AIKythera_Showcase.init.gen.cpp.obj"
+"C:\Users\FMGameDev\GitHub\CGT\DES310\SeagullStudios_AIKythera_Showcase\AIKythera_Showcase\Intermediate\Build\Win64\UE4Editor\Development\AIKythera_Showcase\AIKythera_ShowcaseCharacter.gen.cpp.obj"
+"C:\Users\FMGameDev\GitHub\CGT\DES310\SeagullStudios_AIKythera_Showcase\AIKythera_Showcase\Intermediate\Build\Win64\UE4Editor\Development\AIKythera_Showcase\AIKythera_ShowcaseGameMode.gen.cpp.obj"
+"C:\Users\FMGameDev\GitHub\CGT\DES310\SeagullStudios_AIKythera_Showcase\AIKythera_Showcase\Intermediate\Build\Win64\UE4Editor\Development\AIKythera_Showcase\Default.rc2.res"
+/OUT:"C:\Users\FMGameDev\GitHub\CGT\DES310\SeagullStudios_AIKythera_Showcase\AIKythera_Showcase\Intermediate\Build\Win64\UE4Editor\Development\AIKythera_Showcase\UE4Editor-AIKythera_Showcase.lib"

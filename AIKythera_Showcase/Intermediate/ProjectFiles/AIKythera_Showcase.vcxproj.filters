@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AIKythera_Showcase.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0C2FD039-3235-488E-9B1E-9E9F12FBD433}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AIKythera_Showcase.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AIKythera_ShowcaseEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{8C88A28C-D173-47C4-8434-014B44CAD06D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AIKythera_Showcase">
+      <UniqueIdentifier>{3E3E3188-D94A-4962-9460-8E3D603B6267}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AIKythera_Showcase\AIKythera_Showcase.Build.cs">
+      <Filter>Source\AIKythera_Showcase</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AIKythera_Showcase\AIKythera_Showcase.cpp">
+      <Filter>Source\AIKythera_Showcase</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIKythera_Showcase\AIKythera_Showcase.h">
+      <Filter>Source\AIKythera_Showcase</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AIKythera_Showcase\AIKythera_ShowcaseCharacter.cpp">
+      <Filter>Source\AIKythera_Showcase</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIKythera_Showcase\AIKythera_ShowcaseCharacter.h">
+      <Filter>Source\AIKythera_Showcase</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AIKythera_Showcase\AIKythera_ShowcaseGameMode.cpp">
+      <Filter>Source\AIKythera_Showcase</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIKythera_Showcase\AIKythera_ShowcaseGameMode.h">
+      <Filter>Source\AIKythera_Showcase</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
